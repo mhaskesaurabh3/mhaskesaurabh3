@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saurabh Mhaske</h1>
-<h3 align="center">A Passionate Frontend Engineer From India</h3>
+<h1 align="left">Hi 👋, I'm Saurabh Mhaske</h1>
+<h3 align="left">A Passionate Frontend Engineer From India</h3>
 
 <p align="left">
   <img
