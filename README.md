@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-mhaske-486766185/"
+    href="www.linkedin.com/in/saurabh-mhaske-486766185/"
     target="blank"
     ><img
       align="center"
