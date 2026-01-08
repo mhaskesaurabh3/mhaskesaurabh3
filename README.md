@@ -8,7 +8,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Spring boot**
 
 - 📫 Reach me out at **mhaskesaurabh3@gmail.com**
 
